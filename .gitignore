@@ -10,6 +10,7 @@
 !.yarn/releases
 !.yarn/versions
 .env.local
+drizzle.config.js
 
 # testing
 /coverage
