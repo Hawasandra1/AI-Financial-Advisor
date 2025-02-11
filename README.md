@@ -16,9 +16,8 @@ This AI-driven Financial Planner is designed to help individuals make smarter fi
 - **Authentication**: **Clerk** for secure and customizable user authentication.
 - **AI Integration**: Leveraging **OpenAI** API to deliver personalized, data-driven financial advice.
 
-C
 
-### Visit http://localhost:3000 in your browser to view the application.
+Visit http://localhost:3000 in your browser to view the application.
 Deployment
 Deploy your app using Vercel for easy integration with Next.js:
 
