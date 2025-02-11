@@ -1,11 +1,53 @@
-<<<<<<< HEAD
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This AI-driven Financial Planner is designed to help individuals make smarter financial decisions using advanced technologies. Built with a powerful tech stack, including **Shadcn UI**, **Drizzle**, **Neon**, **PostgreSQL**, **Next.js**, **Tailwind CSS**, **Clerk**, and the **OpenAI API**, it offers a seamless and intuitive user experience for financial planning, budgeting, and advisory.
+
+## Features
+
+- **AI-Powered Financial Advice**: Utilize the power of **OpenAI's GPT** to generate tailored financial advice based on user input.
+- **Interactive Financial Dashboard**: View and manage financial goals, track spending, and explore personalized suggestions.
+- **Secure Authentication**: Integrated with **Clerk** for robust user authentication and management.
+- **Real-time Data Sync**: Connect and sync with external data sources to keep your financial data updated in real time.
+- **PostgreSQL Database**: Utilize **Neon** for highly efficient and scalable data storage with PostgreSQL.
+- **Custom UI Components**: Designed with **Shadcn UI** and styled using **Tailwind CSS** for a modern, responsive user interface.
+  
+## Tech Stack
+
+- **Frontend**: Built with **Next.js** and **Tailwind CSS** for a fast, scalable, and responsive frontend.
+- **Backend**: Powered by **Drizzle**, **Neon**, and **PostgreSQL** to store and manage user data securely.
+- **Authentication**: **Clerk** for secure and customizable user authentication.
+- **AI Integration**: Leveraging **OpenAI** API to deliver personalized, data-driven financial advice.
+
+C
+
+# Visit http://localhost:3000 in your browser to view the application.
+Deployment
+Deploy your app using Vercel for easy integration with Next.js:
+
+Vercel Deployment Guide
+Roadmap
+Future features to be added:
+
+Multi-currency support
+Budget tracking and management tools
+Integration with third-party financial APIs (banks, credit services, etc.)
+Advanced data analytics and reporting features
+Learn More
+Next.js Documentation
+Shadcn UI
+Drizzle Documentation
+OpenAI API
+
+#Contact
+For questions or collaboration inquiries, please reach out to hawasandra.m@gmail.com
 
 ## Getting Started
 
-First, run the development server:
+Clone the repository and install dependencies:
 
 ```bash
+git clone https://github.com/your-username/financial-planner.git
+cd financial-planner
+npm install
+
 npm run dev
 # or
 yarn dev
@@ -13,27 +55,4 @@ yarn dev
 pnpm dev
 # or
 bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-=======
->>>>>>> 63b513f2944cb1b78505c45005c2bb8dd67c5392
