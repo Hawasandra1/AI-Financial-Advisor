@@ -36,5 +36,4 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 =======
-# AI-Financial-Planner (It's still in Progress)
 >>>>>>> 63b513f2944cb1b78505c45005c2bb8dd67c5392
