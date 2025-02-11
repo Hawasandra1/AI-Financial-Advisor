@@ -22,19 +22,13 @@ C
 Deployment
 Deploy your app using Vercel for easy integration with Next.js:
 
-Vercel Deployment Guide
-Roadmap
-Future features to be added:
+### Vercel Deployment Guide:
 
-Multi-currency support
-Budget tracking and management tools
-Integration with third-party financial APIs (banks, credit services, etc.)
-Advanced data analytics and reporting features
-Learn More
-Next.js Documentation
-Shadcn UI
-Drizzle Documentation
-OpenAI API
+Learn More:
+- Next.js Documentation
+- Shadcn UI
+- Drizzle Documentation
+- OpenAI API
 
 ## Contact:
 For questions or collaboration inquiries, please reach out to hawasandra.m@gmail.com
