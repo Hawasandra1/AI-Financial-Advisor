@@ -18,7 +18,7 @@ This AI-driven Financial Planner is designed to help individuals make smarter fi
 
 C
 
-# Visit http://localhost:3000 in your browser to view the application.
+### Visit http://localhost:3000 in your browser to view the application.
 Deployment
 Deploy your app using Vercel for easy integration with Next.js:
 
@@ -36,7 +36,7 @@ Shadcn UI
 Drizzle Documentation
 OpenAI API
 
-#Contact
+## Contact:
 For questions or collaboration inquiries, please reach out to hawasandra.m@gmail.com
 
 ## Getting Started
